@@ -2,7 +2,7 @@
 layout: aboutprofiles
 inline: false
 group: Students
-group_rank: 3
+group_rank: 4
 team_frontpage: true
 
 title: Student
