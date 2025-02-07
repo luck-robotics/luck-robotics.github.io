@@ -3,7 +3,7 @@ layout: page
 title: >
   ETAPE: Embodiment- and Task-Aware Parameter Embeddings for Robotic Foundation Models
 description: 'NWO-funded project'
-img: logo_nwo.jpg
+img: assets/img/logo_nwo.jpg
 importance: 1
 category: current
 related_publications: true
