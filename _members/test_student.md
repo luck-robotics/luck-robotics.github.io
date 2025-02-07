@@ -18,7 +18,7 @@ profile:
     name: Dr. Kevin Sebastian Luck
     align: right
     image: luck_profile.jpg
-    role: Assistant Professor
+    position: Assistant Professor
     website: http://kevin-luck.com
     email: k.s.luck@vu.nl
     address: ''
