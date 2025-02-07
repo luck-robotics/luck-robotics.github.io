@@ -1,7 +1,7 @@
 --
 layout: about
 inline: false
-group: Assistant Professor
+group: Faculty
 group_rank: 1
 team_frontpage: true
 
@@ -21,7 +21,7 @@ profile:
     website: http://kevin-luck.com
     email: k.s.luck@vu.nl
     address: >
-    none
+      none
 ---
 
 I am an Assistant Professor in the Computational Intelligence Group at the Vrije Universiteit Amsterdam. Here, I am working on multiple different topics in the field of robot learning, primarily in the area of deep reinforcement learning.
