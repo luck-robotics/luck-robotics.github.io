@@ -11,17 +11,16 @@ lastname: Student
 publications: 'author^=*Student'
 
 teaser: >
-    I am an Assistant Professor (tenured since February 2025) in the Computational Intelligence Group at the Vrije Universiteit Amsterdam, where I lead the Luck Lab.
-    Here, I am working on multiple different topics in the field of robot learning, primarily in the area of deep reinforcement learning.
+    I am here just for tests and trumpets!
 
 profile:
-    name: Dr. Kevin Sebastian Luck
+    name: R. O. Bot
     align: right
-    image: luck_profile.jpg
+    image: test_profile.jpg
     position: Student
     website: http://kevin-luck.com
-    email: k.s.luck@vu.nl
+    email: 'test@example.com'
     address: ''
 ---
 
-I am a student and I work with cool robots!
+I am a student and I work with other cool robots!
