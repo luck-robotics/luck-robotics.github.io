@@ -183,6 +183,9 @@ newsletter:
 # -----------------------------------------------------------------------------
 
 collections:
+  members:
+    output: true
+    permalink: /members/:path
   news:
     defaults:
       layout: post
