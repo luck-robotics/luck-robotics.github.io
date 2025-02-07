@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /team
-title: Team
-description: Team members and external collaborators
+title: people
+description: Team members, students, and our close external collaborators
 nav: true
 nav_rank: 2
 ---
