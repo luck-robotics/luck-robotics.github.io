@@ -1,18 +1,20 @@
 ---
 layout: page
-title: TeNet: Text-to-Network for Fast and Energy-Efficient Robot Control
+title: ETAPE: Embodiment- and Task-Aware Parameter Embeddings for Robotic Foundation Models
 description:
 img:
 importance: 1
 category: current
 related_publications: true
 ---
-Large Language Models, such as ChatGPT, are more and more often applied to equip robots with the ability to receive instructions from humans to solve tasks and problems. Enabling robots to understand natural language helps us to lower the barrier and enable people without special training to program robots and deploy them easier in the real world. However, large language models come at a cost: They are large, with billions of parameters, requiring special and expensive computers, consume a lot of energy, and need several seconds to process data and produce outputs. This makes it tricky to deploy them directly on robots, as they often cannot carry large payloads, such as large computers, and if, for example, mobile robots draw energy from batteries we want to optimize their energy consumption such that they can function as long as possible without the need to recharge and pause their task.
+Super-sized neural networks with billions of parameters, capable of human-level conversation and complex task solving, have received much attention in recent years. This development has also reached robotics. Many robotics researchers are now working on robust fundamental models: large neural networks that can solve many different tasks and function on different robotic bodies.
 
-In this project our group will see if we can solve some of these problems by training large language models to produce smaller networks, which can be queried faster, need less energy and can be deployed directly on a robot. With this he hopes to not only enable robots to be able to solve tasks which require fast real-time coordination and short reaction times, like throwing, balancing, object-manipulation etc., but also decrease the amount of energy needed for running these language models hence contribution to a more sustainable approach for robotics and real world applications.
+In this project,our team will explore new ways for such fundamental models to more reliably identify the robot's embodiment and current task, so that they can generate tailored robot control policies. They aim to achieve this by modularizing and internally structuring robust fundamental models. In doing so, we aim to not only make these models more explainable, more applicable to different robotic devices and more rapidly deployable, but also to potentially reduce the energy consumption for (re)training such large models as new data becomes available.
+
+By the end of this research project, we hope to have achieved initial results and launched a research program that can expand the application areas of large neural networks in robotics, address their current problematic energy inefficiency, and provide researchers and citizens with a better understanding of the internal workings of a robust fundamental model.
 
 ## Runtime
-September 2024 - August 2025
+2025 - 2026
 
 ## Funding Agency
 The Dutch Research Council (NWO)
