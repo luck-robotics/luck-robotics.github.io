@@ -9,9 +9,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Welcome to the website of the Luck Lab lead by Assist. Professor [Kevin Sebastian Luck](www.kevin-luck.com)! We are part of the [Computational Intelligence Group](https://cs.vu.nl/ci/) at the Vrije Universiteit Amsterdam in the Netherlands.
+Welcome to the website of the Luck Lab lead by Assist. Professor [Kevin Sebastian Luck](https://www.kevin-luck.com)! We are part of the [Computational Intelligence Group](https://cs.vu.nl/ci/) at the Vrije Universiteit Amsterdam in The Netherlands.
 
-Our group's research is centered boradly on robot learning, with a special focus on
+Our group's research is centered broadly on robot learning, with a special focus on
  - Deep Reinforcement Learning for Continuous Control & Robotics
  - Multi- and Cross-Embodiment Learning
  - Co-Design & Co-Optimization of Robot Design and Behaviour
