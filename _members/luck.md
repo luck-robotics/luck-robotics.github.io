@@ -1,4 +1,4 @@
---
+---
 layout: about
 inline: false
 group: Faculty
@@ -11,7 +11,7 @@ lastname: Luck
 publications: 'author^=*Luck'
 
 teaser: >
-    I am an Assistant Professor in the Computational Intelligence Group at the Vrije Universiteit Amsterdam, where I lead the Luck Lab. Here, I am working on multiple different topics in the field of robot learning, primarily in the area of deep reinforcement learning.
+    I am an Assistant Professor (tenured since February 2025) in the Computational Intelligence Group at the Vrije Universiteit Amsterdam, where I lead the Luck Lab. Here, I am working on multiple different topics in the field of robot learning, primarily in the area of deep reinforcement learning.
 
 profile:
     name: Dr. Kevin Sebastian Luck
