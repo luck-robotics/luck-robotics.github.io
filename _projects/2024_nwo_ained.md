@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'TeNet: Text-to-Network for Fast and Energy-Efficient Robot Control'
-description:
+description: 'NWO-funded project'
 img: logo_nwo.jpg
 importance: 1
 category: current
