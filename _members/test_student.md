@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: aboutprofiles
 inline: false
 group: Students
 group_rank: 3
