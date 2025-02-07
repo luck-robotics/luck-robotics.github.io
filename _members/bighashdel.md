@@ -2,7 +2,7 @@
 layout: aboutprofiles
 inline: false
 group: Postdocs
-group_rank: 3
+group_rank: 2
 team_frontpage: true
 
 title: Ariyan Bighashdel
