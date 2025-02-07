@@ -2,7 +2,7 @@
 layout: page
 title: 'TeNet: Text-to-Network for Fast and Energy-Efficient Robot Control'
 description:
-img:
+img: logo_nwo.jpg
 importance: 1
 category: current
 related_publications: true
@@ -11,7 +11,7 @@ Large Language Models, such as ChatGPT, are more and more often applied to equip
 
 In this project our group will see if we can solve some of these problems by training large language models to produce smaller networks, which can be queried faster, need less energy and can be deployed directly on a robot. With this he hopes to not only enable robots to be able to solve tasks which require fast real-time coordination and short reaction times, like throwing, balancing, object-manipulation etc., but also decrease the amount of energy needed for running these language models hence contribution to a more sustainable approach for robotics and real world applications.
 
-## Runtime
+## Project Runtime
 September 2024 - August 2025
 
 ## Funding Agency

@@ -2,7 +2,7 @@
 layout: page
 title: ETAPE: Embodiment- and Task-Aware Parameter Embeddings for Robotic Foundation Models
 description:
-img:
+img: logo_nwo.jpg
 importance: 1
 category: current
 related_publications: true
@@ -13,7 +13,7 @@ In this project,our team will explore new ways for such fundamental models to mo
 
 By the end of this research project, we hope to have achieved initial results and launched a research program that can expand the application areas of large neural networks in robotics, address their current problematic energy inefficiency, and provide researchers and citizens with a better understanding of the internal workings of a robust fundamental model.
 
-## Runtime
+## Project Runtime
 2025 - 2026
 
 ## Funding Agency
