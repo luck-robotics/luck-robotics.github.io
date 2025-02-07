@@ -2,7 +2,7 @@
 layout: page
 title: TeNet: Text-to-Network for Fast and Energy-Efficient Robot Control
 description:
-img: assets/img/12.jpg
+img: 
 importance: 1
 category: current
 related_publications: true
