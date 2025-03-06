@@ -23,6 +23,6 @@ profile:
     address: ''
 ---
 
-I am a PhD student jointly involved in the Computational Intelligence Group and the Quantitative Data Analytics Group at Vrije University Amsterdam, Netherlands, where I am supervised by Dr. Kevin Sebastian Luck and Dr. Shujian Yu. Previously, I was a research assistant at the Department of Imaging Physics, TU Delft, Netherlands, where I was advised by Dr. Qian Tao and worked on Generative Models, Unsupervised Learning, Machine Learning theories, etc. I finished my MSc at Robotics and Mechatronics group, University of Twente, with my thesis focusing on diffusion-based generative models. I did my bachelors at Fudan University, majored in Theoretical and Applied Mechanics.
+I am a PhD student jointly involved in the Computational Intelligence Group and the Quantitative Data Analytics Group at Vrije University Amsterdam, Netherlands, where I am supervised by Dr. Kevin Sebastian Luck and Dr. Shujian Yu. Previously, I was a research assistant at the Department of Imaging Physics, TU Delft, Netherlands, where I was supervised by Dr. Qian Tao and worked on Generative Models, Unsupervised Learning, Machine Learning theories, etc. I finished my MSc at Robotics and Mechatronics group, University of Twente, with my thesis focusing on diffusion-based generative models. I did my bachelors at Fudan University, majored in Theoretical and Applied Mechanics.
 
 Keywords: (Deep) Reinforcement Learning, Robot Learning, Unsupervised Learning, Information Theory
