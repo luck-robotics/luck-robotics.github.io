@@ -17,7 +17,7 @@ Our group's research is centered broadly on robot learning, with a special focus
  - Co-Design & Co-Optimization of Robot Design and Behaviour
  - Robot Learning Applications to Robot Manipulation and Locomotion
 
- {% assign members = site.members | where: "team_frontpage", true | sort: "lastname" %}
+ {% assign members = site.members | where: "team_frontpage", true | sort: "group_rank" %}
  <div class="d-flex flex-wrap align-content-stretch justify-content-center m-n2 pt-5 no-gutters">
      {% for member in members %}
          {% assign colsMod6 = forloop.length | modulo: 6 %}
