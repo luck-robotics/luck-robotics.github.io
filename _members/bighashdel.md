@@ -23,4 +23,4 @@ profile:
     address: ''
 ---
 
-I am a postdoc and I work with cool robots!
+I work at the intersection of reinforcement learning, robot learning, and Large Language Models (LLMs). Currently, I’m involved in a project to create and tune neural policies for continuous control and robotic tasks in reinforcement learning settings using LLMs.
