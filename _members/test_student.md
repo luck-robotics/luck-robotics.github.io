@@ -3,7 +3,7 @@ layout: aboutprofiles
 inline: false
 group: Students
 group_rank: 5
-team_frontpage: true
+team_frontpage: false
 
 title: Student
 description: Profile of Student
