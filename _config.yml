@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Luck Lab # the website title (if blank, full name will be used instead)
+title: CI Robot Learning Lab # the website title (if blank, full name will be used instead)
 first_name:
 middle_name:
 last_name:
