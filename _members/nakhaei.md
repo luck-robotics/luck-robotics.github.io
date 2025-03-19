@@ -3,7 +3,7 @@ layout: aboutprofiles
 inline: false
 group: Visiting, External, and Collaborators
 group_rank: 4
-team_frontpage: true
+team_frontpage: false
 
 title: Mohammadreza Nakhaei
 description: Mohammadreza Nakhaei
