@@ -18,10 +18,7 @@ profile:
     align: right
     image: darwesh_profile.jpg
     position: Student
-    website: 
     email: 'L.Darwesh@student.vu.nl'
-    address: >
-      none
 ---
 
 I am a Master's student in Artificial Intelligence at Vrije Universiteit Amsterdam. My research focuses on robot learning, particularly in the field of reinforcement learning for adaptive locomotion.
