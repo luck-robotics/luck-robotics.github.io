@@ -16,7 +16,7 @@ teaser: >
 profile:
     name: Luna Ellinger
     align: right
-    image: ellinger.jpg
+    image: ellinger_profile.jpg
     position: Student
     email: 'e.l.ellinger@student.vu.nl'
     address: >
