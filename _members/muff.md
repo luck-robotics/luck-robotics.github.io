@@ -5,7 +5,7 @@ group: PhD Students
 group_rank: 3
 team_frontpage: true
 
-title: PhD Student
+title: Jed Muff
 description: Jed Muff
 lastname: Muff
 publications: 'author^=*Muff'
