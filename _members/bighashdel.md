@@ -11,7 +11,7 @@ lastname: Bighashdel
 publications: 'author^=*Bighashdel'
 
 teaser: >
-    I am a postdoc at the lab.
+    I am a external/visiting postdoc at the lab.
 
 profile:
     name: Dr. Ariyan Bighashdel
