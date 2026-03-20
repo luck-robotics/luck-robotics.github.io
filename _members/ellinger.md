@@ -2,7 +2,7 @@
 layout: aboutprofiles
 inline: false
 group: Previous Students
-group_rank: 7
+group_rank: 10
 team_frontpage: true
 
 title: Luna Ellinger
