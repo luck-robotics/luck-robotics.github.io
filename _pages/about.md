@@ -9,9 +9,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Welcome to the website of the CI Robot Learning Lab lead by Assist. Professor [Kevin Sebastian Luck](https://www.kevin-luck.com)! We are part of the [Computational Intelligence Group](https://cs.vu.nl/ci/) at the Vrije Universiteit Amsterdam in The Netherlands.
+Welcome to the website of the CI Robot Learning Unit at the VU Amsterdam, lead by Assist. Professor [Kevin Sebastian Luck](https://www.kevin-luck.com)! Our team is part of the [Computational Intelligence Group](https://cs.vu.nl/ci/) (Chair: Guszti Eiben) at the Vrije Universiteit Amsterdam in The Netherlands.
 
-Our group's research is centered broadly on robot learning, with a special focus on
+Our teams's research is centered broadly on robot learning, with a special focus on
  - Deep Reinforcement Learning for Continuous Control & Robotics
  - Multi- and Cross-Embodiment Learning
  - Co-Design & Co-Optimization of Robot Design and Behaviour
