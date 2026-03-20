@@ -3,7 +3,7 @@ layout: aboutprofiles
 inline: false
 group: Visiting, External, and Collaborators
 group_rank: 4
-team_frontpage: false
+team_frontpage: true
 
 title: Kevin Qiu
 description: Kevin Qiu
