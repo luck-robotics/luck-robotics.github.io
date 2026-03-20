@@ -16,7 +16,7 @@ teaser: >
 profile:
     name:  Kevin Qiu
     align: right
-    image: qiu_profile.jpg
+    image: qiu_profile.jpeg
     position: PhD Student
     website: https://scholar.google.com/citations?user=LBmkz_QAAAAJ&hl=en
     email: ''
