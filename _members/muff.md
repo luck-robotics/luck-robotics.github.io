@@ -1,8 +1,8 @@
 ---
 layout: aboutprofiles
 inline: false
-group: PhD Students
-group_rank: 3
+group: Visiting, External, and Collaborators
+group_rank: 4
 team_frontpage: true
 
 title: Jed Muff
