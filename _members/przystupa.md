@@ -16,7 +16,7 @@ teaser: >
 profile:
     name: Michael Przystupa
     align: right
-    image: przystupa_profile.jpg
+    image: przystupa_profile.png
     position: Postdoc
     website:
     email: m.v.przystupa@vu.nl
