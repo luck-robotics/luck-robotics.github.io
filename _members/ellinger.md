@@ -3,7 +3,7 @@ layout: aboutprofiles
 inline: false
 group: Previous Students
 group_rank: 10
-team_frontpage: true
+team_frontpage: false
 
 title: Luna Ellinger
 description: Profile of Luna Ellinger, Master Student AI
