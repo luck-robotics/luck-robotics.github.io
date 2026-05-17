@@ -3,7 +3,7 @@ layout: aboutprofiles
 inline: false
 group: Previous Students
 group_rank: 10
-team_frontpage: true
+team_frontpage: false
 
 title: Liza Darwesh
 description: Profile of Liza Darwesh, Master Student
