@@ -17,6 +17,9 @@ Our teams's research is centered broadly on robot learning, with a special focus
  - Co-Design & Co-Optimization of Robot Design and Behaviour
  - Robot Learning Applications to Robot Manipulation and Locomotion
 
+<img src="assets/img/group_icra_small.jpg" alt="The robot learning team at ICRA 2026" width="500" align="center">
+
+{% comment %}
  {% assign members = site.members | where: "team_frontpage", true | sort: "group_rank" %}
  <div class="d-flex flex-wrap align-content-stretch justify-content-center m-n2 pt-5 no-gutters">
      {% for member in members %}
@@ -34,3 +37,4 @@ Our teams's research is centered broadly on robot learning, with a special focus
              </a>
          </div>
      {% endfor %}
+{% uncomment %}
